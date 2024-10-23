@@ -1,4 +1,4 @@
-# Infrastructure as Code (Iac) using Pulumi
+# Infrastructure as Code (IaC) using Pulumi
 
 Follow the instructions for setting up Pulumi with Azure at
 ```bash

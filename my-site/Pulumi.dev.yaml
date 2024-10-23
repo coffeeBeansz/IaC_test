@@ -1,0 +1,5 @@
+config:
+  IaC_test_site:errorDocument: error.html
+  IaC_test_site:indexDocument: index.html
+  IaC_test_site:path: ./www
+  azure-native:location: northeurope
